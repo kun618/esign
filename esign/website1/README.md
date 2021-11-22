@@ -1,2 +1,2 @@
-# PHPWord的简单使用实例-模板使用
-PHPWord的简单使用实例-模板使用（亲测可用），已将中文乱码问题解决。
+# Here you can find all the documents for e-sign's templates
+Varies templates are provided in this section. For Contract, there are employment, renting cars, renting shop and renting house. For IOU, there are IOU & Letter of Guarantee and Proof of Repayment. For receipt, there are Deposit receipt, item receipt, payment receipt anf bill of exchange receipt. Due to the workload, the current version of e-sign is test version，we only perfrom the full version of renting place to live (house). For the rest of the templates, we will do the follow-up improvement later on.
